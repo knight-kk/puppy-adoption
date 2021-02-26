@@ -1,0 +1,79 @@
+[
+  {
+    "id": 0,
+    "name": "dog0",
+    "imageUrl": "\uD83D\uDC36",
+    "description": "A puppy is a juvenile dog",
+    "adopted": false
+  },
+  {
+    "id": 1,
+    "name": "dog1",
+    "imageUrl": "\uD83D\uDC15",
+    "description": "A puppy is a juvenile dog",
+    "adopted": false
+  },
+  {
+    "id": 2,
+    "name": "dog2",
+    "imageUrl": "\uD83E\uDDAE",
+    "description": "A puppy is a juvenile dog",
+    "adopted": false
+  },
+  {
+    "id": 3,
+    "name": "dog3",
+    "imageUrl": "\uD83D\uDC15\u200D\uD83E\uDDBA",
+    "description": "A puppy is a juvenile dog",
+    "adopted": true
+  },
+  {
+    "id": 4,
+    "name": "dog4",
+    "imageUrl": "\uD83D\uDC29",
+    "description": "A puppy is a juvenile dog",
+    "adopted": true
+  },
+  {
+    "id": 5,
+    "name": "dog5",
+    "imageUrl": "\uD83D\uDC15\u200D\uD83E\uDDBA",
+    "description": "A puppy is a juvenile dog",
+    "adopted": false
+  },
+  {
+    "id": 6,
+    "name": "dog6",
+    "imageUrl": "\uD83D\uDC36",
+    "description": "A puppy is a juvenile dog",
+    "adopted": false
+  },
+  {
+    "id": 7,
+    "name": "dog7",
+    "imageUrl": "\uD83D\uDC15\u200D\uD83E\uDDBA",
+    "description": "A puppy is a juvenile dog",
+    "adopted": false
+  },
+  {
+    "id": 8,
+    "name": "dog8",
+    "imageUrl": "\uD83E\uDDAE",
+    "description": "A puppy is a juvenile dog",
+    "adopted": false
+  },
+  {
+    "id": 9,
+    "name": "dog9",
+    "imageUrl": "\uD83D\uDC36",
+    "description": "A puppy is a juvenile dog",
+    "adopted": false
+  },
+  {
+    "id": 10,
+    "name": "dog10",
+    "imageUrl": "\uD83D\uDC29",
+    "description": "A puppy is a juvenile dog",
+    "adopted": false
+  }
+]
